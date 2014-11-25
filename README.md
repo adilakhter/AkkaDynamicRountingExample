@@ -1,4 +1,4 @@
-AkkaDynamicRountingExample
+AkkaDynamicRoutingExample
 ==========================
 
-Dynamic Routing EIP based on AKKA concurrency model
+Dynamic Router EIP based on AKKA concurrency model. See http://www.eaipatterns.com/DynamicRouter.html. 
